@@ -1,0 +1,7 @@
+def create(name):
+    def disply_name():
+        print("Welcome to python progeamming Mr.", name)
+
+    disply_name()
+
+create("Ali")
